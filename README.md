@@ -1,2 +1,2 @@
 # Tindog
-Building using Bootstrap Tindog
+Building Tindog using Bootstrap
